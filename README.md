@@ -1,6 +1,19 @@
 # ZJUCKC-C-Learning-Assistence
 浙江大学竺可桢学院C语言程序设计辅学计划公共仓库。
 
+## 练习题推荐
+
+### 2019-11-22
+
+第一次选题，比较简单，希望大家能熟悉洛谷的环境。
+
+我们会尽量保证练习推荐不超出大家已学的范围，有任何意见或建议，请在QQ群中或Github Issue中反馈，谢谢。
+
+Simple: [Luogu1151]( https://www.luogu.org/problem/P1151 ) [Luogu1138]( https://www.luogu.org/problem/P1138 )
+
+Medium: [Luogu1567]( https://www.luogu.org/problem/P1567 ) [Luogu1795]( https://www.luogu.org/problem/P1795 )
+
+
 ## 关于Issue使用的几点说明
 
 ### 链接的添加
