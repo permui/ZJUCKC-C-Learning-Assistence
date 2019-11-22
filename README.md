@@ -7,7 +7,7 @@
 
 我们会尽量保证练习推荐不超出大家已学的范围。有任何意见或建议，请在QQ群中或Github Issue (Label feedback) 中反馈，谢谢。
 
-第一次选题，比较简单，希望大家能熟悉洛谷的环境。
+[洛谷](https://www.luogu.org/) 是一个很好的免费编程练习平台，拥有庞大的题库，题目覆盖入门到精通。所以第一次选题比较简单，希望大家能熟悉洛谷的环境，以后我们很大部分的选题都是在洛谷上的。
 
 Simple: [Luogu1151]( https://www.luogu.org/problem/P1151 ) [Luogu1138]( https://www.luogu.org/problem/P1138 )
 
