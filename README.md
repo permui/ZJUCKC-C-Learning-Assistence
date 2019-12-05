@@ -18,7 +18,7 @@ Medium: [Luogu1567]( https://www.luogu.org/problem/P1567 ) [Luogu1795]( https://
 
 ### 链接的添加
 
-点添加链接按钮会出现 `[](url)` 这样的文本，中括号内填入链接文字，小括号内填链接地址。
+写一个这样的东西：`[在这里填入链接的名字](在这里填入链接的地址)`
 例如我写 `[百度](http://baidu.com)` 最终效果就是 [百度](http://baidu.com)。可以在 Preview 中预览。
 
 ### 如何漂亮地放代码
